@@ -36,4 +36,4 @@ require (
 	gopkg.in/yaml.v2 v2.2.1 // indirect
 )
 
-replace github.com/goreleaser/goreleaser => github.com/influxdata/goreleaser master
+replace github.com/goreleaser/goreleaser => github.com/influxdata/goreleaser v0.86.2-0.20181010170531-0fd209ba67f5

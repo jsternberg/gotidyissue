@@ -35,3 +35,5 @@ require (
 	google.golang.org/appengine v1.2.0 // indirect
 	gopkg.in/yaml.v2 v2.2.1 // indirect
 )
+
+replace github.com/goreleaser/goreleaser => github.com/influxdata/goreleaser master
